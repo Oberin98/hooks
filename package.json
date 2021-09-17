@@ -1,0 +1,9 @@
+{
+  "name": "Hooks",
+  "version": "1.0.0",
+  "description": "reusable react hooks",
+  "main": "index.js",
+  "repository": "https://github.com/Oberin98/hooks.git",
+  "author": "Artem Beliaev <artembeliaev98@gmail.com>",
+  "license": "MIT"
+}
